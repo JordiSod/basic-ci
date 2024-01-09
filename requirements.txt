@@ -2,6 +2,7 @@
 pandas
 numpy
 seaborn
+keras # let us add keras to try something new!
 
 # Testing packages
 pytest
